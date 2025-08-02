@@ -194,3 +194,10 @@ git push origin <tagname>
 - Push tag to remote.
 
 ---
+
+---
+
+12. Basic Cherry-Pick
+
+```bash
+git cherry-pick <commit-hash>
